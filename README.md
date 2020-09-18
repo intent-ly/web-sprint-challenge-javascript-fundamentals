@@ -41,7 +41,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 4. Describe the four rules of the 'this' keyword.
 
-    this is a tag that can be used implicitly refer to something (functions or objects)
+    this is a tag that can be used globaly, newly, explicitly, implicitly refer to something (functions or objects)
 
 5. Why do we need super() in an extended class?
 
